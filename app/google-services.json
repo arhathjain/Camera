@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "414546851125",
+    "project_id": "camera-f5bc6",
+    "storage_bucket": "camera-f5bc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414546851125:android:ab210fb2ffc5fa09ecc87c",
+        "android_client_info": {
+          "package_name": "com.arhath.camera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414546851125-te7mniqor50is3plf6upladorf9doses.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALLhtLmmGpSm62dVI9FQ41Tsve7-ebnYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414546851125-te7mniqor50is3plf6upladorf9doses.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

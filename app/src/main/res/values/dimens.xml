@@ -1,0 +1,102 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+
+
+
+    <dimen name="list_item_spacing">16dp</dimen>
+    <dimen name="list_item_spacing_half">8dp</dimen>
+
+
+    <dimen name="headline">25sp</dimen>
+    <dimen name="title">20sp</dimen>
+    <dimen name="subtitleBig">16sp</dimen>
+    <dimen name="subtitleSmall">14sp</dimen>
+    <dimen name="bodyBig">16sp</dimen>
+    <dimen name="toolbarTitle">18sp</dimen>
+    <dimen name="toolbarSubTitle">16sp</dimen>
+    <dimen name="bodySmall">14sp</dimen>
+    <dimen name="buttonText">14sp</dimen>
+    <dimen name="caption">12sp</dimen>
+    <dimen name="overline">14sp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="inner_item_offset">16dp</dimen>
+    <dimen name="inner_item_height">140dp</dimen>
+
+    <dimen name="dp10">10dp</dimen>
+    <dimen name="dp120">120dp</dimen>
+
+    <dimen name="header_title1_text_size">22sp</dimen>
+    <dimen name="header_title2_text_size">20sp</dimen>
+    <dimen name="header_title2_name_text_size">17sp</dimen>
+    <dimen name="header_name_text_size">17sp</dimen>
+    <dimen name="header_info_text_size">14sp</dimen>
+    <dimen name="header_footer_text_size">13sp</dimen>
+    <dimen name="header_avatar_size">50dp</dimen>
+    <dimen name="udr_header_avatar_size">65dp</dimen>
+    <dimen name="header_icon_size">14dp</dimen>
+    <dimen name="placeholder_text_height">8dp</dimen>
+    <dimen name="placeholder_small_text_height">5dp</dimen>
+
+    <dimen name="item_title_text_size">18sp</dimen>
+    <dimen name="item_name_text_size">@dimen/header_name_text_size</dimen>
+    <dimen name="item_info_text_size">@dimen/header_info_text_size</dimen>
+    <dimen name="item_footer_text_size">@dimen/header_footer_text_size</dimen>
+    <dimen name="item_avatar_border">1dp</dimen>
+
+    <dimen name="item_avatar_size">@dimen/header_avatar_size</dimen>
+    <dimen name="item_icon_size">@dimen/header_icon_size</dimen>
+
+    <dimen name="details_avatar_border">5dp</dimen>
+
+    <dimen name="dp160">160dp</dimen>
+    <dimen name="dp190">190dp</dimen>
+    <dimen name="profile_avatar_h_offset">16dp</dimen>
+    <dimen name="profile_avatar_v_offset">8dp</dimen>
+    <dimen name="profile_avatar_size">100dp</dimen>
+    <dimen name="nav_profile_image_size">80dp</dimen>
+
+    <dimen name="profile_texts_h_offset">32dp</dimen>
+    <dimen name="profile_texts_v_max_offset">66dp</dimen>
+    <dimen name="profile_texts_v_min_offset">8dp</dimen>
+
+
+    <dimen name="item_offset">10dp</dimen>
+    <dimen name="detail_backdrop_height">250dp</dimen>
+    <dimen name="backdrop_title">30dp</dimen>
+    <dimen name="backdrop_subtitle">18dp</dimen>
+    <dimen name="card_margin">5dp</dimen>
+    <dimen name="card_album_radius">0dp</dimen>
+    <dimen name="album_cover_height">160dp</dimen>
+    <dimen name="album_title_padding">10dp</dimen>
+    <dimen name="album_title">15dp</dimen>
+    <dimen name="songs_count_padding_bottom">5dp</dimen>
+    <dimen name="songs_count">12dp</dimen>
+    <dimen name="ic_album_overflow_width">20dp</dimen>
+    <dimen name="ic_album_overflow_height">30dp</dimen>
+    <dimen name="ic_album_overflow_margin_top">10dp</dimen>
+
+    <dimen name="spacing_mlarge">30dp</dimen>
+    <dimen name="spacing_large">12dp</dimen>
+    <dimen name="spacing_middle">10dp</dimen>
+    <dimen name="spacing_xlarge">40dp</dimen>
+    <dimen name="spacing_medium">8dp</dimen>
+    <dimen name="view_height">100dp</dimen>
+    <dimen name="font_mlarge">24sp</dimen>
+    <dimen name="spacing_small">4dp</dimen>
+    <dimen name="bg_decrease20dp">-20dp</dimen>
+    <dimen name="notification_size">14dp</dimen>
+
+    <dimen name="card_shadow">1dp</dimen>
+    <dimen name="font_xlarge">26sp</dimen>
+    <dimen name="font_large">16sp</dimen>
+
+
+</resources>

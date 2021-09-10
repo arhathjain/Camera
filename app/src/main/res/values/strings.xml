@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Camera</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="todo">todo</string>
+    <string name="failed">Failed</string>
+    <string name="uploading_image_failed">Uploading Image failed</string>
+    <string name="try_again">Try Again</string>
+</resources>
